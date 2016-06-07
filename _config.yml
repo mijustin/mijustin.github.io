@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mijustin.github.io
+title: Justin Jackson
+email: justin@nerdnorth.com
+author: Justin Jackson
+description: I help people build & launch creative projects.
+paginate: 3
+google_analytics: UA-36474980-1
